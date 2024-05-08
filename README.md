@@ -1,1 +1,2 @@
-# Projeto baseado na calculadora do Iphone Xr IOS com puro JavaScript.
+# Projeto baseado na calculadora do Iphone Xr IOS.
+- Usando javascript puro
